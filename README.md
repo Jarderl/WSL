@@ -7,4 +7,29 @@
 
 This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Write your name on line 6, save it, and then head back to GitHub WSL.
+# 🐧 Tutorial de Instalação do WSL (Windows Subsystem for Linux)
+
+Este repositório contém um **guia passo a passo para instalar e configurar o WSL** no Windows 10 ou Windows 11, permitindo rodar um ambiente Linux diretamente no Windows.
+
+---
+
+## 📋 Pré-requisitos
+
+- Windows 10 **versão 2004 ou superior** (Build 19041+)
+- Windows 11
+- Conta com **permissões de administrador**
+- Virtualização ativada no BIOS/UEFI
+
+---
+
+## 🚀 Instalação Rápida (Recomendada)
+
+### 1️⃣ Abrir o PowerShell como Administrador
+- Clique com o botão direito no **Menu Iniciar**
+- Selecione **Windows Terminal (Admin)** ou **PowerShell (Admin)**
+
+### 2️⃣ Executar o comando de instalação
+```powershell
+wsl --install
+
