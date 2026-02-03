@@ -5,9 +5,8 @@
 
 # Welcome to GitHub WSL!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This is your README.
 
-Write your name on line 6, save it, and then head back to GitHub WSL.
 # 🐧 Tutorial de Instalação do WSL (Windows Subsystem for Linux)
 
 Este repositório contém um **guia passo a passo para instalar e configurar o WSL** no Windows 10 ou Windows 11, permitindo rodar um ambiente Linux diretamente no Windows.
