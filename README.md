@@ -3,7 +3,7 @@
 
 
 
-# Welcome to GitHub WSL!
+# Welcome to WSL!
 
 This is your README.
 
