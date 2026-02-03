@@ -32,4 +32,35 @@ Este repositório contém um **guia passo a passo para instalar e configurar o W
 ### 2️⃣ Executar o comando de instalação
 ```powershell
 wsl --install
+---
+Esse comando irá:
+
+Ativar o WSL
+
+Instalar o WSL 2
+
+Instalar o Ubuntu como distribuição padrão
+
+4️⃣ Criar usuário Linux
+
+Defina um nome de usuário
+
+Crie uma senha (não aparece ao digitar — comportamento normal)
+
+✅ Pronto! O WSL está instalado e funcionando.
+
+---
+
+Verificando a instalação
+
+Para listar as distribuições instaladas:
+
+wsl -l -v
+
+
+Para verificar a versão do WSL:
+
+wsl --version
+
+---
 
