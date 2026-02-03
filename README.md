@@ -63,4 +63,20 @@ Para verificar a versão do WSL:
 wsl --version
 
 ---
+Instalando outras distribuições Linux
 
+Listar distribuições disponíveis:
+
+wsl --list --online
+
+
+Instalar uma distro específica (exemplo: Debian):
+
+wsl --install -d Debian
+
+⚙️ Configurações úteis
+Definir WSL 2 como padrão
+wsl --set-default-version 2
+
+Converter uma distro do WSL 1 para WSL 2
+wsl --set-version Ubuntu 2
